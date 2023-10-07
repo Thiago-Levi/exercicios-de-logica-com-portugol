@@ -1,6 +1,6 @@
 # Projeto - Exercícios de Lógica de programação com portugol 🧠🤯😬
 
-Com o objetivo de treinar um pouco de lógica de programação, resolvi um pouco mais de 50 questões envolvendo estruturas sequenciais , condicionais, repetitivas, vetores e matrizes.
+Série de exercícios resolvidos e apresentados. Foram um pouco mais de 50 questões envolvendo estruturas sequenciais , condicionais, repetitivas, vetores e matrizes.
 
 ## Tecnologias
 
